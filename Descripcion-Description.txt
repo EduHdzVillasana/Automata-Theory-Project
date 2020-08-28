@@ -1,0 +1,4 @@
+El proyecto consta de un analizador de lenguaje que tomando en cuenta ciertas restricciones valida un código o no
+
+
+The project consists of a language analyzer that, taking into account certain restrictions, validates a code or not
